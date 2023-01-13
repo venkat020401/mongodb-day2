@@ -1,4 +1,4 @@
-//collections name
+//collections name:
 
 // users
 // codekata
